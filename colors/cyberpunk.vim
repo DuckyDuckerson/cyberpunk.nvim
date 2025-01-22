@@ -3,7 +3,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-set background=dark
+set background=none
 let g:colors_name = "cyberpunk"
 
 function! HighlightFor(group, ...)
