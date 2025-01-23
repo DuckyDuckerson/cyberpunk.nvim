@@ -65,7 +65,7 @@ call HighlightFor("StorageClass", "#d57bff", "NONE", "NONE")
 call HighlightFor("Statement",    "#76C1FF", "NONE", "NONE")
 
 call HighlightFor("Function",   "#d57bff", "NONE", "NONE")
-call HighlightFor("Identifier", "#00FF2A", "NONE", "NONE")
+call HighlightFor("Identifier", "#ff00ff", "NONE", "NONE")
 
 call HighlightFor("PreProc", "#00FF9C", "NONE", "NONE")
 
