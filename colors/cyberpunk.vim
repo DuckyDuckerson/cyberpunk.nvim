@@ -48,9 +48,9 @@ call HighlightFor("CursorColumn", "NONE",    "NONE",    "NONE")
 
 " Code {{{
 " The following groups are not builtin but are defined commonly in syntax files
-call HighlightFor("Comment",   "#FFFF99", "NONE", "italic")
+call HighlightFor("Comment",   "#B30000", "NONE", "italic")
 call HighlightFor("String",    "#76C1FF", "NONE", "NONE")
-call HighlightFor("Number",    "#fffc58",  "NONE", "NONE")
+call HighlightFor("Number",    "#FF0000",  "NONE", "NONE")
 call HighlightFor("Float",     "#fffc58",  "NONE", "NONE")
 call HighlightFor("Boolean",   "#fffc58",  "NONE", "NONE")
 call HighlightFor("Character", "#fffc58",  "NONE", "NONE")
