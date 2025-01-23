@@ -68,6 +68,8 @@ call HighlightFor("Function",   "#d57bff", "NONE", "NONE")
 call HighlightFor("Identifier", "#FFFF00", "NONE", "NONE")
 call HighlightFor("Variable", "#FFFF00", "NONE", "NONE")
 call HighlightFor("VariableDecl", "#FFFF00", "NONE", "NONE")
+call HighlightFor("pythonVariable", "#FFFF00", "NONE", "NONE")
+call HighlightFor("cVariable", "#FFFF00", "NONE", "NONE")
 
 call HighlightFor("PreProc", "#00FF9C", "NONE", "NONE")
 
