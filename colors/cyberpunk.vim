@@ -64,7 +64,7 @@ call HighlightFor("Keyword",      "#76C1FF", "NONE", "NONE")
 call HighlightFor("StorageClass", "#d57bff", "NONE", "NONE")
 call HighlightFor("Statement",    "#76C1FF", "NONE", "NONE")
 
-call HighlightFor("Function",   "#76C1FF", "NONE", "NONE")
+call HighlightFor("Function",   "#FFFF00", "NONE", "NONE")
 call HighlightFor("Identifier", "#FF0080", "NONE", "NONE")
 call HighlightFor("Variable", "#FFFF00", "NONE", "NONE")
 call HighlightFor("VariableDecl", "#FFFF00", "NONE", "NONE")
