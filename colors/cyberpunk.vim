@@ -68,14 +68,12 @@ call HighlightFor("Function",   "#FFFF00", "NONE", "NONE")
 call HighlightFor("Identifier", "#FF0080", "NONE", "NONE")
 call HighlightFor("Variable", "#FFFF00", "NONE", "NONE")
 call HighlightFor("VariableDecl", "#FFFF00", "NONE", "NONE")
-call HighlightFor("pythonVariable", "#FFFF00", "NONE", "NONE")
-call HighlightFor("cVariable", "#FFFF00", "NONE", "NONE")
 
 call HighlightFor("PreProc", "#00FF9C", "NONE", "NONE")
 
-call HighlightFor("Type",      "#00FF9C", "NONE", "NONE")
-call HighlightFor("Structure", "#00FF9C", "NONE", "NONE")
-call HighlightFor("Typedef",   "#00FF9C", "NONE", "NONE")
+call HighlightFor("Type",      "#4DFFFF", "NONE", "NONE")
+call HighlightFor("Structure", "#55FF33", "NONE", "NONE")
+call HighlightFor("Typedef",   "#FFA64D", "NONE", "NONE")
 
 call HighlightFor("Underlined", "NONE",    "NONE",    "NONE")
 call HighlightFor("Todo",       "#00FF9C", "#372963", "italic")
